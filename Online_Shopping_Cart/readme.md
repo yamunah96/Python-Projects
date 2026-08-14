@@ -192,6 +192,6 @@ This project demonstrates practical experience in:
 - Performing data validation
 - Writing structured and maintainable Python programs
 
-Link: https://github.com/yamunah96/Python-classes/tree/main/Online%20Shopping%20cart
+
 
 ---
